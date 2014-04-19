@@ -1,0 +1,36 @@
+{
+  "name": "digger-tests",
+  "version": "0.0.0",
+  "description": "Merge all the digger tests into one stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node runtests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/digger-tests.git"
+  },
+  "keywords": [
+    "digger",
+    "tests"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/digger-tests/issues"
+  },
+  "homepage": "https://github.com/binocarlos/digger-tests",
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "~2.1.0",
+    "digger-contracts": "*",
+    "digger-utils": "*",
+    "digger-find": "*",
+    "digger-xml": "*",
+    "digger-container": "*",
+    "digger-client": "*"
+  },
+  "dependencies": {
+    
+  }
+}
