@@ -17,7 +17,9 @@ spawn('./node_modules/.bin/mocha', [
 	'./node_modules/digger-utils/test/test.js',
 	'./node_modules/digger-find/test/test.js',
 	'./node_modules/digger-xml/test/test.js',
-	'./node_modules/digger-client/test/test.js'
+	'./node_modules/digger-client/test/test.js',
+	'./node_modules/digger-server/test/test.js',
+	'./node_modules/digger-level/test/test.js'
 ], {
 	stdio:'inherit'
 })
