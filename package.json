@@ -21,16 +21,18 @@
   },
   "homepage": "https://github.com/binocarlos/digger-tests",
   "devDependencies": {
+    "digger-client": "*",
+    "digger-container": "*",
+    "digger-contracts": "*",
+    "digger-find": "*",
+    "digger-http": "*",
+    "digger-selector": "*",
+    "digger-server": "*",
+    "digger-utils": "*",
+    "digger-xml": "*",
     "mocha": "~1.14.0",
     "should": "~2.1.0",
-    "digger-contracts": "*",
-    "digger-utils": "*",
-    "digger-find": "*",
-    "digger-xml": "*",
-    "digger-container": "*",
-    "digger-client": "*"
+    "through2": "^0.6.2"
   },
-  "dependencies": {
-    
-  }
+  "dependencies": {}
 }

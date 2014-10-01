@@ -15,6 +15,8 @@ sudolink:
 	sudo npm link /srv/projects/digger-client
 	sudo npm link /srv/projects/digger-server
 	sudo npm link /srv/projects/digger-level
+	sudo npm link /srv/projects/digger-selector
+	sudo npm link /srv/projects/digger-http
 
 link:
 	npm link digger-contracts
@@ -25,3 +27,5 @@ link:
 	npm link digger-client
 	npm link digger-server
 	npm link digger-level
+	npm link digger-selector
+	npm link digger-http
