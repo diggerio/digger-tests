@@ -28,6 +28,7 @@
     "digger-http": "*",
     "digger-selector": "*",
     "digger-server": "*",
+    "digger-level": "*",
     "digger-utils": "*",
     "digger-xml": "*",
     "mocha": "~1.14.0",
